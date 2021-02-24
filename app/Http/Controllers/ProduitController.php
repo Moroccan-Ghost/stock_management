@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 
 class ProduitController extends Controller
 {
-     /**
+     /**k
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
